@@ -1,0 +1,48 @@
+.style-nav{
+    background-color: rgb(44, 62, 80)!important;
+}
+
+.start-bootstrap{
+    background-color: rgb(26, 188, 156);
+    min-height: 500px;
+}
+
+h1, h5, h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+hr{
+    border-top: 4px solid #fff; /* Set the color you want */
+    width: 100%; /* Adjust width as needed */
+}
+
+.hr-2v{
+    border-top: 4px solid #000000;
+}
+
+.cards > div{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: black;
+    min-height: 200px;
+}
+
+.download{
+    width: 110px;
+    height: 50px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+.form{
+    padding: 10px;
+}
+
+.send{
+    width: 80px;
+    height: 45px;
+    background-color: rgb(26, 188, 156);
+    color: white;
+    border-radius: 10px;
+}
