@@ -74,6 +74,10 @@
     justify-content: center;
 }
 
+.d-around{
+    justify-content: space-around;
+}
+
 .d-end{
     justify-content: end;
 }
